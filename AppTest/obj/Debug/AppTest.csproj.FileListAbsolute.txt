@@ -18,3 +18,13 @@ Z:\Tonione_Eval01_POO\GestEleve\AppTest\obj\Debug\AppTest.csproj.CoreCompileInpu
 Z:\Tonione_Eval01_POO\GestEleve\AppTest\obj\Debug\AppTest.csproj.CopyComplete
 Z:\Tonione_Eval01_POO\GestEleve\AppTest\obj\Debug\AppTest.exe
 Z:\Tonione_Eval01_POO\GestEleve\AppTest\obj\Debug\AppTest.pdb
+C:\Users\tonione\Desktop\GestEleve\AppTest\bin\Debug\AppTest.exe.config
+C:\Users\tonione\Desktop\GestEleve\AppTest\bin\Debug\AppTest.exe
+C:\Users\tonione\Desktop\GestEleve\AppTest\bin\Debug\AppTest.pdb
+C:\Users\tonione\Desktop\GestEleve\AppTest\bin\Debug\ClassEleve.dll
+C:\Users\tonione\Desktop\GestEleve\AppTest\bin\Debug\ClassEleve.pdb
+C:\Users\tonione\Desktop\GestEleve\AppTest\obj\Debug\AppTest.csproj.AssemblyReference.cache
+C:\Users\tonione\Desktop\GestEleve\AppTest\obj\Debug\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\tonione\Desktop\GestEleve\AppTest\obj\Debug\AppTest.csproj.CopyComplete
+C:\Users\tonione\Desktop\GestEleve\AppTest\obj\Debug\AppTest.exe
+C:\Users\tonione\Desktop\GestEleve\AppTest\obj\Debug\AppTest.pdb

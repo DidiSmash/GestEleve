@@ -14,12 +14,9 @@ namespace AppTest
             // A COMPLETER
 
             Eleve eleve = new Eleve("Hertz", "Lou", 2003, "Marseille");
-            Console.WriteLine(eleve.ObtenirDescription());
-
             eleve.Demenager("Lyon");
-            Console.WriteLine(eleve.ObtenirDescription());
-
             eleve.AjouterAbsence(4);
+
             Console.WriteLine(eleve.ObtenirDescription());
 
             eleve.AjouterNote(14);
