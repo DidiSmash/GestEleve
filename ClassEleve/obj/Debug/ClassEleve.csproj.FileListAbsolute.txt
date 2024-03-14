@@ -1,0 +1,12 @@
+C:\Users\sophi\Desktop\Annee2023-2024\B2_SLAM_SIO1\Eval\Eval01\Etud\GestEleve\ClassEleve\obj\Debug\ClassEleve.csproj.AssemblyReference.cache
+C:\Users\sophi\Desktop\Annee2023-2024\B2_SLAM_SIO1\Eval\Eval01\Etud\GestEleve\ClassEleve\obj\Debug\ClassEleve.csproj.CoreCompileInputs.cache
+C:\Users\sophi\Desktop\Annee2023-2024\B2_SLAM_SIO1\Eval\Eval01\Etud\GestEleve\ClassEleve\bin\Debug\ClassEleve.dll
+C:\Users\sophi\Desktop\Annee2023-2024\B2_SLAM_SIO1\Eval\Eval01\Etud\GestEleve\ClassEleve\bin\Debug\ClassEleve.pdb
+C:\Users\sophi\Desktop\Annee2023-2024\B2_SLAM_SIO1\Eval\Eval01\Etud\GestEleve\ClassEleve\obj\Debug\ClassEleve.dll
+C:\Users\sophi\Desktop\Annee2023-2024\B2_SLAM_SIO1\Eval\Eval01\Etud\GestEleve\ClassEleve\obj\Debug\ClassEleve.pdb
+Z:\Tonione_Eval01_POO\GestEleve\ClassEleve\obj\Debug\ClassEleve.csproj.AssemblyReference.cache
+Z:\Tonione_Eval01_POO\GestEleve\ClassEleve\obj\Debug\ClassEleve.csproj.CoreCompileInputs.cache
+Z:\Tonione_Eval01_POO\GestEleve\ClassEleve\obj\Debug\ClassEleve.dll
+Z:\Tonione_Eval01_POO\GestEleve\ClassEleve\obj\Debug\ClassEleve.pdb
+Z:\Tonione_Eval01_POO\GestEleve\ClassEleve\bin\Debug\ClassEleve.dll
+Z:\Tonione_Eval01_POO\GestEleve\ClassEleve\bin\Debug\ClassEleve.pdb
